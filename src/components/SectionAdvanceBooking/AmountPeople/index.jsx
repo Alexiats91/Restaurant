@@ -1,12 +1,16 @@
+import {useState} from "react";
+
 //Styles
 import {Label, Wrap} from './styled';
 import { Select } from 'antd';
 
 const AmountPeople = () => {
 	const { Option } = Select;
-	const handleChange = (value) => {};
+	const [amount, setAmount] = useState("2People");
+	const handleChange = (value) => {setAmount(value)};
 	return (
 		<Wrap>
+			<input name="amount" type="hidden" value={amount}/>
 			<Label>Guests</Label>
 			<Select
 				onChange={handleChange}

@@ -54,6 +54,8 @@ export const Input = styled.input.attrs({
 	name: "email",
 	type: "email",
 	placeholder: "E-mail",
+	pattern: "[a-z0-9]+@[a-z]+\\.[a-z]{2,3}",
+	required: " ",
 })`
   width: 544px;
   height: 90px;
