@@ -69,8 +69,9 @@ function App({store}) {
 
 				<Routes>
 					<Route index element={<Main store={store.mainPage}/>}/>
+					<Route path="/Restaurant" element={<Main/>}/>
 
-					<Route  path="/MenuOne" element={<MenuOne/>}/>
+					<Route path="/MenuOne" element={<MenuOne/>}/>
 					<Route path="/MenuTwo" element={<MenuTwo/>}/>
 					<Route path="/MenuThree" element={<MenuThree/>}/>
 					<Route path="/MenuFour" element={<MenuFour/>}/>
