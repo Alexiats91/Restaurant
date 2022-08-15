@@ -2,7 +2,7 @@
   "name": "final_project_btstrp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alexiats91.github.io/Restourant/",
+  "homepage": "https://alexiats91.github.io/Restaurant/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
     "@fortawesome/free-brands-svg-icons": "^6.1.2",
