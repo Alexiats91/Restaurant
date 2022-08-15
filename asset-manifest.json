@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Restourant/static/css/main.8ff46857.css",
-    "main.js": "/Restourant/static/js/main.2f9d8207.js",
+    "main.css": "/Restourant/static/css/main.c420a3cc.css",
+    "main.js": "/Restourant/static/js/main.97342128.js",
     "static/js/787.efeda21d.chunk.js": "/Restourant/static/js/787.efeda21d.chunk.js",
     "static/media/plate2.png": "/Restourant/static/media/plate2.06be8552435ca43a0bb8.png",
     "static/media/plate3.png": "/Restourant/static/media/plate3.1ca3031390a834315b3d.png",
@@ -39,12 +39,12 @@
     "static/media/poppins-bold-webfont.woff2": "/Restourant/static/media/poppins-bold-webfont.70dbbae003363544562c.woff2",
     "static/media/poppins-black-webfont.woff2": "/Restourant/static/media/poppins-black-webfont.e4fa0fa9d8b16999fdf4.woff2",
     "index.html": "/Restourant/index.html",
-    "main.8ff46857.css.map": "/Restourant/static/css/main.8ff46857.css.map",
-    "main.2f9d8207.js.map": "/Restourant/static/js/main.2f9d8207.js.map",
+    "main.c420a3cc.css.map": "/Restourant/static/css/main.c420a3cc.css.map",
+    "main.97342128.js.map": "/Restourant/static/js/main.97342128.js.map",
     "787.efeda21d.chunk.js.map": "/Restourant/static/js/787.efeda21d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ff46857.css",
-    "static/js/main.2f9d8207.js"
+    "static/css/main.c420a3cc.css",
+    "static/js/main.97342128.js"
   ]
 }
